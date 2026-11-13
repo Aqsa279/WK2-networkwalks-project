@@ -127,7 +127,8 @@ This section is reserved for the network-scanning tasks discussed during the tra
 
 
 <img width="959" height="489" alt="Screenshot 2026-11-13 105934" src="https://github.com/user-attachments/assets/5aed5477-01f9-4fdd-9c8c-064aec6ce278" />
-![Uploading Screenshot 2026-11-13 110035.png…]()
+<img width="956" height="496" alt="Screenshot 2026-11-13 110035" src="https://github.com/user-attachments/assets/c30ef0ff-1376-4cf7-846c-9b96cb808d0d" />
+
 
 
 ---
