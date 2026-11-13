@@ -124,6 +124,12 @@ This section is reserved for the network-scanning tasks discussed during the tra
 <img width="663" height="291" alt="wafw00f" src="https://github.com/user-attachments/assets/5db9b3bb-02eb-4afa-b294-0967e8a660a5" />
 <img width="664" height="325" alt="dnsrecon" src="https://github.com/user-attachments/assets/9faa5cc2-2225-4839-8c3a-0fe1fdd5b4e5" />
 
+
+
+<img width="959" height="489" alt="Screenshot 2026-11-13 105934" src="https://github.com/user-attachments/assets/5aed5477-01f9-4fdd-9c8c-064aec6ce278" />
+![Uploading Screenshot 2026-11-13 110035.png…]()
+
+
 ---
 📄 Final Project Report
 ---
