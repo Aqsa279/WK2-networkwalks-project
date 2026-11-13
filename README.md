@@ -115,11 +115,13 @@ This section is reserved for the network-scanning tasks discussed during the tra
 ---
 📸 Screenshots & Evidence
 ---
-Each task folder is ready for evidence. Recommended filenames:
-`task-01-command-and-output.png`
-`task-01-result-notes.md`
-`task-01-output.txt`
-Keep screenshots readable and crop irrelevant desktop space. Redact credentials, tokens, personal information, internal addresses where disclosure is not approved, and any sensitive target information. Do not upload raw data that could expose another party's systems.
+<img width="665" height="419" alt="whois-ss-1" src="https://github.com/user-attachments/assets/8cfe4a2b-eecc-4598-b37c-4b53caa9b0ee" />
+<img width="636" height="131" alt="whatweb networkwalks" src="https://github.com/user-attachments/assets/a9cf3094-7ca9-474c-95fc-f8e5abe18dad" />
+<img width="706" height="320" alt="nslookup" src="https://github.com/user-attachments/assets/e044ea02-4a10-4c94-845a-317b244d0685" />
+<img width="713" height="269" alt="curl-2-orignal" src="https://github.com/user-attachments/assets/f6ad0b43-297a-45c1-b5e2-4409d72c93d3" />
+<img width="663" height="291" alt="wafw00f" src="https://github.com/user-attachments/assets/5db9b3bb-02eb-4afa-b294-0967e8a660a5" />
+<img width="664" height="325" alt="dnsrecon" src="https://github.com/user-attachments/assets/9faa5cc2-2225-4839-8c3a-0fe1fdd5b4e5" />
+
 ---
 📄 Final Project Report
 ---
