@@ -131,6 +131,12 @@ This section is reserved for the network-scanning tasks discussed during the tra
 
 
 
+<img width="298" height="286" alt="Screenshot 2026-11-12 112540" src="https://github.com/user-attachments/assets/9f77208b-e497-40f5-b5ae-bfc1781eebcc" />
+<img width="652" height="416" alt="Screenshot 2026-11-12 112559" src="https://github.com/user-attachments/assets/47299c74-4004-4577-8a62-cecf3bb7b045" />
+<img width="659" height="416" alt="1" src="https://github.com/user-attachments/assets/859b44f6-5f52-4f42-9a60-fc090d071474" />
+
+
+
 ---
 📄 Final Project Report
 ---
