@@ -25,3 +25,4 @@ It also includes practical task screenshots and a final penetration testing repo
 
 The main objective was to gain hands-on experience with reconnaissance methodologies and develop practical skills used in the initial phases of ethical hacking and penetration testing.
 ---
+
